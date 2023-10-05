@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+ul,
+li,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  text-transform: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 0;
+}
+
+table {
+  margin: 0 auto;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: #999;
+  border-style: solid;
+  border-width: 2px !important;
+  padding: 6px;
+  text-align: center;
+}
+
+button.btn-act {
+  padding: 8px 12px;
+  border: 1px solid #999;
+  transition: all 0.5s ease;
+  border-radius: 6px;
+}

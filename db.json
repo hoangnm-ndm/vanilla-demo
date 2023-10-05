@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "joke",
+      "id": 4
+    },
+    {
+      "name": "Steve Job",
+      "id": 5
+    },
+    {
+      "name": "san pham",
+      "id": 6
+    }
+  ]
+}
